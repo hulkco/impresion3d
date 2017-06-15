@@ -30,6 +30,9 @@ http://www.thingiverse.com
 # Trabajando dia a dia
 https://github.com/tectijuana/impresion3d/issues/6
 
+## Reparando STL por dañarlos los archivos
+https://all3dp.com/1/stl-repair-stl-file-online-checker-fix-3d-model/
+
 # Trabajo de los docentes
 Contamos con 2 directorios, **PRACTICAS** como borradores temporales, y **PROYECTOS** para 3dImprimirlos en la impresora.
 Recordando que debe tener su nombre.
