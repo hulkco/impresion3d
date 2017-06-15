@@ -16,10 +16,12 @@ https://github.com/tectijuana/impresion3d/issues/2
 
 # Impresoras semi-Profesionales
 https://github.com/tectijuana/impresion3d/issues/4
+
 http://tinyurl.com/comoimprimo
 
 # TinkerCAD y otros diseñadores en linea CAD
 https://github.com/tectijuana/impresion3d/issues/3
+
 http://onshape.com (Free CAD online)
 
 # Depósitos colectivos diseños
