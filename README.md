@@ -25,6 +25,12 @@ http://onshape.com (Free CAD online)
 # Depósitos colectivos diseños
 http://www.thingiverse.com
 
+# Trabajando dia a dia
+https://github.com/tectijuana/impresion3d/issues/6
+
 # Trabajo de los docentes
+Contamos con 2 directorios, **PRACTICAS** como borradores temporales, y **PROYECTOS** para 3dImprimirlos en la impresora.
+Recordando que debe tener su nombre.
 
-
+# Bibliografía
+https://github.com/tectijuana/impresion3d/issues/7
