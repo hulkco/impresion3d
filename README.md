@@ -31,7 +31,8 @@ http://www.thingiverse.com
 https://github.com/tectijuana/impresion3d/issues/6
 
 ## Reparando STL por dañarlos los archivos
-https://all3dp.com/1/stl-repair-stl-file-online-checker-fix-3d-model/
+Y el mas Recomendable es https://tools3d.azurewebsites.net/ y claro la comunidad comenta de otros:
+https://all3dp.com/1/stl-repair-stl-file-online-checker-fix-3d-model/, en ocaciones por moverlos de paginas y sitios, e incluso de Thingiverse.com me ha tocado que estan dañados. Este los repara sin ningun costo.
 
 # Trabajo de los docentes
 Contamos con 2 directorios, **PRACTICAS** como borradores temporales, y **PROYECTOS** para 3dImprimirlos en la impresora.
