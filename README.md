@@ -38,5 +38,7 @@ https://all3dp.com/1/stl-repair-stl-file-online-checker-fix-3d-model/, en ocacio
 Contamos con 2 directorios, **PRACTICAS** como borradores temporales, y **PROYECTOS** para 3dImprimirlos en la impresora.
 Recordando que debe tener su nombre.
 
+https://github.com/tectijuana/impresion3d/issues/8
+
 # Bibliografía
 https://github.com/tectijuana/impresion3d/issues/7
