@@ -24,6 +24,10 @@ https://github.com/tectijuana/impresion3d/issues/3
 
 http://onshape.com (Free CAD online)
 
+http://openscad.org (pro)
+
+http://blockscad.com (estudiantes y básicos para todos)
+
 # Depósitos colectivos diseños
 http://www.thingiverse.com
 
